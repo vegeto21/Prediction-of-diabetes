@@ -1,4 +1,4 @@
-# Prediction-of-diabities
+# Prediction-of-diabetes
 # Machine Learning project
 
 A try to improve the ML model of Kevin Markham (DataSchool Teacher & Founder)
